@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/873684218641179966/93a8ed0defea4cf4b4e2f40e3398d459/artifacts
+end_time: 1756667333661
+entry_point_name: ''
+experiment_id: '873684218641179966'
+lifecycle_stage: active
+run_id: 93a8ed0defea4cf4b4e2f40e3398d459
+run_name: painted-shad-849
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756667332248
+status: 3
+tags: []
+user_id: rajranja

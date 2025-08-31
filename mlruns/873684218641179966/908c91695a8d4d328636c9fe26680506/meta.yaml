@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/873684218641179966/908c91695a8d4d328636c9fe26680506/artifacts
+end_time: 1756667327789
+entry_point_name: ''
+experiment_id: '873684218641179966'
+lifecycle_stage: active
+run_id: 908c91695a8d4d328636c9fe26680506
+run_name: grandiose-rook-910
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756667326471
+status: 3
+tags: []
+user_id: rajranja
