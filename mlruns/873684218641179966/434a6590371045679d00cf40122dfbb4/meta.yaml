@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/873684218641179966/434a6590371045679d00cf40122dfbb4/artifacts
+end_time: 1757129979636
+entry_point_name: ''
+experiment_id: '873684218641179966'
+lifecycle_stage: active
+run_id: 434a6590371045679d00cf40122dfbb4
+run_name: adorable-stoat-279
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757129978154
+status: 3
+tags: []
+user_id: rajranja

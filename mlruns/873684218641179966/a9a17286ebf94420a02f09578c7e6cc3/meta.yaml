@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/873684218641179966/a9a17286ebf94420a02f09578c7e6cc3/artifacts
+end_time: 1757133174983
+entry_point_name: ''
+experiment_id: '873684218641179966'
+lifecycle_stage: active
+run_id: a9a17286ebf94420a02f09578c7e6cc3
+run_name: dazzling-donkey-128
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757133173709
+status: 3
+tags: []
+user_id: rajranja
